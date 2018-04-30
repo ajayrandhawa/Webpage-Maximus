@@ -4,7 +4,7 @@ Maximus Web Page (HTML/CSS)
 
 ## Screenshot
 
-![screencapture-file-c-users-cyberblack-desktop-1-20first-index-html-2018-04-30-22_19_09](https://user-images.githubusercontent.com/30903923/39439233-8964b4f8-4cc4-11e8-8878-1b59e6cdf7be.jpg)
+![screencapture-file-c-users-cyberblack-desktop-2-20second-index-html-2018-04-30-22_45_54](https://user-images.githubusercontent.com/30903923/39440541-d16a8d5a-4cc8-11e8-8782-d7ca0b07caae.jpg)
 
 ## Getting Started
 
