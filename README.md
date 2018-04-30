@@ -1,6 +1,4 @@
-# Project Title
-
-Maximus Web Page (HTML/CSS)
+# Maximus Web Page (HTML/CSS)
 
 ## Screenshot
 
